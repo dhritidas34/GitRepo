@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import urllib3
 import json
 
+##bugs
 # disable HTTPS warnings
 urllib3.disable_warnings()
 
